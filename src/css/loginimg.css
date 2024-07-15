@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+body{
+    display: flex;
+    display: inline;
+    width: auto;
+    height: auto;
+}
+
+img{
+    display: flex;
+    display: inline;
+    max-width: 100px;
+    max-height: 80px;
+
+}
+
+form{
+    display: flex;
+    width: auto;
+    margin:  19%;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+input{
+    display: flex;
+    display: block;
+    margin: 10px auto;
+    width: 20vw;
+    height: 5vh;
+}
